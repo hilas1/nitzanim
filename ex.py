@@ -12,4 +12,3 @@ print(" Hello " , name ," How are you: " )
 """
 
 print("your name")
-print('hi')
